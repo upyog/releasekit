@@ -1,0 +1,34 @@
+{
+    "messages": [
+        {
+            "code": "EMAIL_UPDATED",
+            "message": "Dear Citizen, your e-mail has been updated from {oldEmail} to {newEmail}.\n\nEGOVS",
+            "module": "egov-user",
+            "locale": "en_IN"
+        },
+        {
+            "code": "sms.login.otp.msg",
+            "message": "Dear Citizen, Your Login OTP is %s.\n\nUPYOG#1207167462318135756",
+            "module": "egov-user",
+            "locale": "en_IN"
+        },
+        {
+            "code": "sms.login.otp.msg1",
+            "message": "Dear Citizen, Your Login OTP is %s.\n\nEGOVS",
+            "module": "egov-user",
+            "locale": "en_IN"
+        },
+        {
+            "code": "sms.pwd.reset.otp.msg",
+            "message": "Dear Employee, Your OTP for recovering password is %s.\n\nUPYOG#1207167462334061254",
+            "module": "egov-user",
+            "locale": "en_IN"
+        },
+        {
+            "code": "sms.register.otp.msg",
+            "message": "Dear Citizen, Your OTP to complete your UPYOG Registration is %s.\n\nUPYOG#1207167462307097438",
+            "module": "egov-user",
+            "locale": "en_IN"
+        }
+    ]
+}
