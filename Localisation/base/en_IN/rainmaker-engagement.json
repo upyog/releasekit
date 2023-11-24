@@ -1,0 +1,1264 @@
+{
+    "messages": [
+        {
+            "code": "ACTION_ADD_NEW_MESSAGE",
+            "message": "Add New Message",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_EDIT_MESSAGE",
+            "message": "Edit Message",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CANNOT_RESPOND_MSG",
+            "message": "Cannot Respond",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CATEGORY_CIRCULARS",
+            "message": "Circulars",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CATEGORY_CITIZEN_CHARTER",
+            "message": "Citizen Charter",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CATEGORY_FORMS",
+            "message": "Forms",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CATEGORY_GOVERNMENT_ORDERS",
+            "message": "Government Orders",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CATEGORY_TENDERS",
+            "message": "Tenders",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_DCOUMENT_UPLOADED_ON",
+            "message": "Uploaded on",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_DOCUMENTS_NOT_FOUND",
+            "message": "No Documents found",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_DOCUMENT_DETAILS",
+            "message": "Document Details",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_DOCUMENT_DOWNLOAD_LINK",
+            "message": "Download",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_DOCUMENT_OPEN_LINK",
+            "message": "Open Link",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_DOCUMENT_VIEW_LINK",
+            "message": "View",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_NOTICES_HEADER",
+            "message": "Notices",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_SERACH_DOCUMENTS",
+            "message": "Search Documents",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_TABLE_DOCUMENT_LINK",
+            "message": "Attachment/Link",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_TABLE_DOCUMENT_NAME",
+            "message": "Document Name",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CE_TABLE_DOCUMENT_POSTED_BY",
+            "message": "Posted By",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CLEAR_SEARCH_LINk",
+            "message": "Clear Search",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_VIEW_DOC",
+            "message": "View Document",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMPLETELY_DELETE",
+            "message": "completely?",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMPLETELY_DELETE_WARN_MSG",
+            "message": "Data in this survey cannot be retrieved again.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_ACTIVE_SURVEY_MSG",
+            "message": "Please confirm if you want to change status of",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_ACTIVE_SURVEY_MSG_END",
+            "message": "to active?",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_DELETE_DOC",
+            "message": "Confirm Delete Document",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_DELETE_EVENT",
+            "message": "Confirm Delete Event",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_DELETE_MSG",
+            "message": "Please confirm is you want to delete the ",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_DELETE_MSG_NEW",
+            "message": "Please confirm if you want to Delete",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_DELETE_PUB_BRCST",
+            "message": "Confirm Delete Message",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_DELETE_SURVEY",
+            "message": "Delete Survey",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_INACTIVE_SURVEY_MSG_NEW",
+            "message": "Please confirm if you want to change status of",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_INACTIVE_SURVEY_MSG_TO_INACTIVE",
+            "message": "to inactive?",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_INACTIVE_SURVEY_WARN_MSG",
+            "message": "This will stop collecting citizen responses immediately.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_MARKACTIVE_SURVEY",
+            "message": "Mark Survey Active",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONFIRM_MARKINACTIVE_SURVEY",
+            "message": "Mark Survey Inactive",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CORE_COMMON_SAVE",
+            "message": "Save",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CREATE_ANOTHER_SURVEY",
+            "message": "Create another survey",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CREATE_NEW_SURVEY",
+            "message": "Create New Survey",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_ADD_OPTION",
+            "message": "Add Option",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_ADD_QUESTION",
+            "message": "Add Question",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_GET_DIRECTIONS",
+            "message": "Get Directions",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_INACTIVE_SURVEYS",
+            "message": "Inactive Surveys",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_OR",
+            "message": "OR",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_PARTICIPATE",
+            "message": "Participate",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_QUESTION",
+            "message": "Question",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_REQUIRED",
+            "message": "Required",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_SETTINGS",
+            "message": "Settings",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_COMMON_TYPE_QUESTION",
+            "message": "Type your question here",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_CREATE_SURVEY",
+            "message": "Create Survey",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_EDIT_SURVEY",
+            "message": "Edit Survey",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_HEADER_PUBLIC_BRDCST",
+            "message": "Public Message Details",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_NO_ACTIVE_SURVEYS",
+            "message": "There are no Active Surveys at the moment.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_NO_SURVEYS_FOUND",
+            "message": "No Surveys Found",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_RESPONSE_COUNT",
+            "message": "No.of Responses",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_SUBMIT_SURVEY",
+            "message": "Submit",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_SURVEYS_QUESTIONS",
+            "message": "Survey Questions",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_SURVEY_DESCRIPTION",
+            "message": "Survey Description",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_SURVEY_NAME",
+            "message": "Survey Name",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_SURVEY_STATUS",
+            "message": "Status",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_SURVEY_TITLE",
+            "message": "Survey Title",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_SURVEY_YT_TO_RESPOND",
+            "message": "Yet to Respond",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CULTURAL",
+            "message": "Cultural",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DCOUMENT_DESCRIPTION",
+            "message": "Document Description",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOCUMENTS_ATTACH_RESTRICTIONS_SIZE",
+            "message": "Only jpg, png, doc and pdf files. 5MB max file size.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOCUMENTS_CATEGORY_CARD_LABEL",
+            "message": "Document Category",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOCUMENTS_DOCUMENT_CARD_SECTION_HEADER",
+            "message": "Documents",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOCUMENTS_DOCUMENT_HEADER",
+            "message": "Documents",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOCUMENTS_EDIT_HEADER",
+            "message": "Edit",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOCUMENT_CATEGORY",
+            "message": "Document Category",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOCUMENT_NAME",
+            "message": "Document Name",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_PREVIOUS_YEAR",
+            "message": "Previous Year",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_THIS_MONTH",
+            "message": "This Month",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_THIS_QUARTER",
+            "message": "This Quarter",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_THIS_WEEK",
+            "message": "This Week",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_THIS_YEAR",
+            "message": "This Year",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TODAY",
+            "message": "Today",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EDIT_PUBLIC_BRDCST",
+            "message": "Edit Public Broadcast",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_BROADCAST_MESSAGE_CREATED",
+            "message": "Message Created Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOCS_CIRCULARS",
+            "message": "Circulars",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOCS_CITIZEN_CHARTER",
+            "message": "Citizen Charter",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOCS_FORMS",
+            "message": "Forms",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOCS_GOVERNMENT_ORDERS",
+            "message": "Government Orders",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOCS_TENDERS",
+            "message": "Tenders",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOCUMENT_ID",
+            "message": "Document ID",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOC_CREATED",
+            "message": "Document Uploaded Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOC_DELETED",
+            "message": "Document Deleted Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOC_FAILURE",
+            "message": "Document Creation Failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOC_UPDATED",
+            "message": "Document Updated Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_DOC_UPDATE_FAILURE",
+            "message": "Document Updation failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_CREATED",
+            "message": "Engagement event created",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_CREATED_MESSAGE",
+            "message": "Event Successfully Created",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_CREATED_MESSAGES",
+            "message": "{{eventName}} has been successfully created for {{fromDate}} from {{fromTime}} to {{toDate}},{{toTime}} and an event notification will be sent to all citizens. To Modify this event please visit All Events section on Events Page.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_DELETED",
+            "message": "Event Deleted Successfully ",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_DELETED_FAILED",
+            "message": "Event Deletion Failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_DELETED_MESSAGES",
+            "message": "Event has been successfully deleted.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_FAILED_MESSAGES",
+            "message": "Event creation failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_ID",
+            "message": "Event ID",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_NAME",
+            "message": "Event Name",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_UPDATED",
+            "message": "Event Updated Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_UPDATED_FAILED",
+            "message": "Event Updation Failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_EVENT_UPDATED_MESSAGES",
+            "message": "Event has been successfully updated.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_PUBLIC_BRDCST_CREATED",
+            "message": "Message Created Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_PUBLIC_BRDCST_DELETED",
+            "message": "Message Deleted Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_PUBLIC_BRDCST_DELETION_FAILED",
+            "message": "Message Deletion failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_PUBLIC_BRDCST_MESSAGES",
+            "message": " ",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_PUBLIC_BRDCST_UPDATED",
+            "message": "Message Updated Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_SURVEY_DELETED",
+            "message": "Survey Deleted Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_SURVEY_UPDATED",
+            "message": "Survey Updated Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENGAGEMENT_SURVEY_UPDATE_FAILURE",
+            "message": "Survey Updation Failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ENG_PUBLIC_BRDCST_UPDATION_FAILED",
+            "message": "Message Updation failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ERR_INVALID_APPID",
+            "message": "Invalid Application No.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_CE_DELETE",
+            "message": "Delete",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_CE_EDIT",
+            "message": "Edit Message",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_CE_EDIT_DOCUMENT",
+            "message": "Edit Document Details",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DEL",
+            "message": "Delete",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DOC_CATEGORY",
+            "message": "Document Category",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DOC_DESCRIPTION",
+            "message": "Document Description",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DOC_DOCUMENT",
+            "message": "Document",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DOC_FILENAME",
+            "message": "File name",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DOC_NAME",
+            "message": "Document Name",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_LINK_LABEL",
+            "message": "Document Link",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_NO",
+            "message": "No",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_SAVE",
+            "message": "Save",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_TAKE_ACTION",
+            "message": "Take Action",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_ULB",
+            "message": "ULB",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_UPDATE",
+            "message": "Update",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_YES",
+            "message": "Yes",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_Y_DEL",
+            "message": "Yes, Delete",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_Y_MARKINACTIVE",
+            "message": "Yes, Mark Inactive",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_DSS_DATE_RANGE",
+            "message": "Date Range",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_ENGAGEMENT_DOCUMENTS",
+            "message": "Add New Document",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_ENGAGEMENT_EDIT_DOC",
+            "message": "Edit Document",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_DELETE",
+            "message": "Delete",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_DELETE_POPUP_HEADER",
+            "message": "Confirm Delete Event",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_DELETE_TEXT",
+            "message": "Please Confirm if you want to delete the Event ",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_EDIT",
+            "message": "Edit Event",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_EDIT_EVENT",
+            "message": "Edit Event",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_EVENT_DETAILS",
+            "message": "Event Details",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_INBOX",
+            "message": "Inbox",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_NEW_EVENT",
+            "message": "New Event",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_EVENT_NEW_EVENT_RESPONSE",
+            "message": "Response",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_NO_EVENTS",
+            "message": "No Events",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_PUBLIC_BRDCST_DELETE",
+            "message": "Delete",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_PUBLIC_BRDCST_EDIT",
+            "message": "Edit Message Details",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_SURVEY_ACTIVE",
+            "message": "Mark Active",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_SURVEY_DELETE",
+            "message": "Delete",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_SURVEY_EDIT",
+            "message": "Edit Survey",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_SURVEY_INACTIVE",
+            "message": "Mark Inactive",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_TITLE_APPLICATION_DETAILS",
+            "message": "Event Details",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_TITLE_CITIZEN_ENGAGEMENT",
+            "message": "Citizen Engagement",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_TITLE_EDIT_EVENTS",
+            "message": "Edit Event",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_TITLE_EVENT_INBOX",
+            "message": "Events",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_CATEGORY_ERROR_REQUIRED",
+            "message": "Required",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_COMMENTS_ERROR_REQUIRED",
+            "message": "Required",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_DATERANGE_LABEL",
+            "message": "Date Range",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_DESCRIPTION_ERROR_REQUIRED",
+            "message": "Description cannot be more than 500 characters",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_DESCRIPTION_TEXT",
+            "message": "Description (Max Char limit : 500)",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_DETAILS_TITLE",
+            "message": "Event Details",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_EDIT_EVENT",
+            "message": "Edit",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_FROM_DATE_ERROR_INVALID",
+            "message": "Invalid From Date",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_FROM_DATE_ERROR_REQUIRED",
+            "message": "Required",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_GEOLOCATION_LABEL",
+            "message": "Pick Event Location from the Map:",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_MAP_LABEL",
+            "message": "Event Location",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_MAXLENGTH_66_CHARS_REACHED",
+            "message": "Name cannot be more than 66 characters",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_MAXLENGTH_REACHED",
+            "message": "Description cannot be more than 500 characters",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_NAME_ERROR_MAXLENGTH",
+            "message": "Event name cannot be more than 66 characters",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_NAME_ERROR_REQUIRED",
+            "message": "Required",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_ORGANIZER_ERROR",
+            "message": "Invalid Organizer Name",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_TITLE_ERROR_REQUIRED",
+            "message": "Required",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_TO_DATE_ERROR_INVALID",
+            "message": "Invalid End Date",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EVENTS_TO_DATE_ERROR_REQUIRED",
+            "message": "Required",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXCEEDS_250_CHAR_LIMIT",
+            "message": "Description should be less than 250 charchters",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FILE_SIZE_EXCEEDED",
+            "message": "File size cannot be greater than 5mb",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FILTERS_FILTER_CARD_CAPTION",
+            "message": "Filters",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GO_BACK_TO_HOME",
+            "message": "Go Back to home",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LABEL_FOR_POSTED_BY",
+            "message": "Document Name",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LABEL_FOR_ULB",
+            "message": "ULB",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LABEL_SURVEY_END_DATE",
+            "message": "Survey End Date",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LABEL_SURVEY_END_TIME",
+            "message": "Survey End Time",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LABEL_SURVEY_START_DATE",
+            "message": "Survey Start Date",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LABEL_SURVEY_START_TIME",
+            "message": "Survey Start Time",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MODULE_PGR",
+            "message": "PGR",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NEW_PUBLIC_BRDCST",
+            "message": "Add New Public Message",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NEW_SURVEY",
+            "message": "Survey",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NOT_SUPPORTED_FILE_TYPE",
+            "message": "Invalid File Type",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NOT_SUPPORTED_FILE_TYPE_AND_FILE_SIZE_EXCEEDED",
+            "message": "Invalid file and max size exceeded",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PUBLICHEALTH",
+            "message": "Public Health",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PUBLIC_BRDCST_DELETE",
+            "message": "Delete",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PUBLIC_BRDCST_DELETE_POPUP_HEADER",
+            "message": "Confirm Delete Message",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PUBLIC_BRDCST_DELETE_TEXT",
+            "message": "Please Confirm if you want to delete the Message",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PUBLIC_BRDCST_FROM_DATE_LABEL",
+            "message": "From Date",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PUBLIC_BRDCST_MSG_LENGTH",
+            "message": "Message Content (Character Length: 500)",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PUBLIC_BRDCST_TITLE_LABEL",
+            "message": "Title",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PUBLIC_BRDCST_TO_DATE_LABEL",
+            "message": "To Date",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_EMAIL",
+            "message": "Email",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_ENDED_MESSAGE",
+            "message": "Survey has ended",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_FORM_CREATED",
+            "message": "Survey Created Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_FORM_CREATION_MESSAGE",
+            "message": "Notification will be sent to citizens as per survey start date and time.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_FORM_FAILURE",
+            "message": "Survey Creation Failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_FORM_ID",
+            "message": "Survey ID",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_FORM_IS_ALREADY_INACTIVE",
+            "message": "Survey Is Inactive",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_FORM_IS_ALREADY_SUBMITTED",
+            "message": "Survey is already submitted",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_FORM_RESPONSE_MESSAGE",
+            "message": "Thank you for providing your response on the survey.",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_PHONE_NUMBER",
+            "message": "Phone number",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_RESPONSES",
+            "message": "Responses",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_RESPONSE_FAILED",
+            "message": "Response Submission Failed",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SURVEY_RESPONSE_SUBMITED",
+            "message": "Response Submitted Successfully",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TOTAL_MESSAGES",
+            "message": "Messages",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WARDCOMMITTEEMEETING",
+            "message": "Ward Committee Meeting",
+            "module": "rainmaker-engagement",
+            "locale": "en_IN"
+        }
+    ]
+}

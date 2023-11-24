@@ -1,0 +1,1660 @@
+{
+    "messages": [
+        {
+            "code": "ABG_ABG_GENERATE_NEW_BILL",
+            "message": "Generate New Bill ",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ABG_PAY",
+            "message": "Pay",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADMN.Election_rally_fees_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADMN.No_Dues_Certificate_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADMN.Parking_Booking_Fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADMN.Parking_during_election_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADMN.RTI_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADMN.Road_show_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADVERTISEMENT_TAX_INFO",
+            "message": "Advertisement Tax",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADVERTISEMENT_TAX_LABEL",
+            "message": "Advertisement Tax",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADVT.Canopy_Fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADVT.Hoardings_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADVT.Light_Wala_Board_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADVT.Outdoor_Media_Display_Fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADVT.Unipolls_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ADVT.Wall_Paint_Advertisement_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_AMOUNT_TO_BE_PAID_HEADER",
+            "message": "Amount to be Paid",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_AMOUNT_TO_PAY_LABEL",
+            "message": "Amount to pay(INR)",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_BILL_CANCELLATION_HEADER",
+            "message": "Bill Cancellation",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_BILL_CANCELLED",
+            "message": "Bill Cancelled successfully",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_BILL_DETAILS_HEADER",
+            "message": "Bill Details",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_BILL_DOWNLOAD_HEADER",
+            "message": "DOWNLOADS",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_BILL_NUMBER_LABEL",
+            "message": "Bill No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_BILL_NUMBER_PLACEHOLDER",
+            "message": "Enter Bill No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_BUTTON_GENERATE_RECEIPT",
+            "message": "GENERATE RECEIPT",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CANCEL_BILL",
+            "message": "Cancel Bill",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CARD_LAST_DIGITS_LABEL",
+            "message": "Last 4 digits",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CARD_LAST_DIGITS_LABEL_PLACEHOLDER",
+            "message": "Enter Last 4 digits of the card",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Bidi_&_Cigrette_Challan_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Burning_of_Waste_Challan_fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Cattle_Challan_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Challan_for_Misuse_of_Water_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Collection_and_Demolition_Waste_Challan_fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Dairy_Animals_Challan_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Dengue_Challan_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Littering_Challan_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Plastic_Challan_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Rehri_Challan_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.SBM_garbage_plastic_polythene_challan_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CH.Santitation_dumping_garbage_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COLLECT",
+            "message": "Collect",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_HEADER",
+            "message": "Group Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_ACTION",
+            "message": "Action",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_ASS_NO",
+            "message": "Assessment No",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_BILL_AMOUNT",
+            "message": "Bill Amount (Rs)",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_BILL_DATE",
+            "message": "Bill Date",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_BILL_NO",
+            "message": "Bill No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_CONSUMER_ID",
+            "message": "Consumer ID",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_CONSUMER_NAME",
+            "message": "Consumer Name",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_CREATE_DATE",
+            "message": "Date Created",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_DOWNLOAD_BUTTON",
+            "message": "Download",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_OWN_NAME",
+            "message": "Owner Name",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_PROPERTY_ID",
+            "message": "Property ID",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_SERVICE_CATEGORY",
+            "message": "Service Category",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_STATUS",
+            "message": "Status",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_VIEW_BUTTON",
+            "message": "Action",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_TENANT",
+            "message": "City",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_COMMON_TOTAL_AMOUNT",
+            "message": "Total Amount",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CONSUMER_CODE_LABEL",
+            "message": "Property Tax Unique ID",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CONSUMER_CODE_PLACEHOLDER",
+            "message": "Enter Property Tax Unique ID",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CONSUMER_ID_LABEL",
+            "message": "Consumer ID",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_CONSUMER_ID_PLACEHOLDER",
+            "message": "Enter Consumer ID",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_DOWNLOAD_EXPIREDIN",
+            "message": "Generated bills will get expired in 24 hrs",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_DOWNLOAD_RECEIPT",
+            "message": "Download Receipt",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FINANCIAL_YEAR_LABEL",
+            "message": "Financial Year",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FINANCIAL_YEAR_PLACEHOLDER",
+            "message": "Select Financial Year",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.Advance_Provident_Fund_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.CPF_received_check_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.GPF_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.Grants_cheque_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.PF_transfer_(Accounts)_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.Provident_Fund_Processing_Fees_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.Recovery_employee/contractor_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.Security_Deposit_Fee_Refundable_Fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FN.Tender_EarneST.Money_Deposit_Refundable_fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FTP.Building_planner_renew_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FTP.Composition_fees_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FTP.Draftsmen_fees_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FTP.TelecOM.tower_fees_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_FULL_AMOUNT_RADIOBUTTON",
+            "message": "Full Amount",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_G8_RECEIPT_DETAILS_HEADER",
+            "message": "G8 Receipt Details(optional)",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_G8_RECEIPT_ISSUE_DATE_LABEL",
+            "message": "G8 receipt issue Date",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_G8_RECEIPT_NO_LABEL",
+            "message": "G8 Receipt No",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_G8_RECEIPT_NO_PLACEHOLDER",
+            "message": "Enter G8 receipt No",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_GROUP_BILL",
+            "message": "Group Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_GROUP_BILLS_MERGE_AND_DOWNLOAD_BUTTON",
+            "message": "MERGE & DOWNLOAD",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_GROUP_BILLS_SEWERAGE_CONNECTION_BUTTON",
+            "message": "SEWERAGE CONNECTION",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_GROUP_BILLS_SINGLAR_WATER_AND_SEWERAGE_CONNECTION_BUTTON",
+            "message": "WATER & SEWERAGE CONNECTION",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_GROUP_BILLS_WATER_AND_SEWERAGE_CONNECTION_BUTTON",
+            "message": "WATER & SEWERAGE CONNECTIONS",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_GROUP_BILLS_WATER_CONNECTION_BUTTON",
+            "message": "WATER CONNECTION",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_GROUP_BILL_SEARCH_BUTTON",
+            "message": "Search",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_IS_FAILED",
+            "message": "Failed",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_LOCMOHALLA_LABEL",
+            "message": "Location/Mohalla",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_LOCMOHALLA_PLACEHOLDER",
+            "message": "Select Location/Mohalla",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_MOBILE_NO_LABEL",
+            "message": "Mobile No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_MOBILE_NO_PLACEHOLDER",
+            "message": "Enter Mobile No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PARTIAL_AMOUNT_RADIOBUTTON",
+            "message": "Partial Amount",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_BANK_BRANCH_LABEL",
+            "message": "Bank Branch",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_BANK_BRANCH_PLACEHOLDER",
+            "message": "Enter bank branch",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_BANK_NAME_LABEL",
+            "message": "Bank Name",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_BANK_NAME_PLACEHOLDER",
+            "message": "Enter bank name",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_BY_OTHERS",
+            "message": "Others",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_BY_OWNER",
+            "message": "Owner",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_CAPTURE_PAYMENT",
+            "message": "Capture Payment",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_CASH",
+            "message": "CASH",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_CHEQUE",
+            "message": "CHEQUE",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_CHEQUE_DATE_LABEL",
+            "message": "Cheque Date",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_CHEQUE_DATE_PLACEHOLDER",
+            "message": "dd/mm/yy",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_CHEQUE_NO_LABEL",
+            "message": "Cheque No",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_CHQ_NO_PLACEHOLDER",
+            "message": "Enter Cheque No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_DD",
+            "message": "DD",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_DD_DATE_LABEL",
+            "message": "DD Date",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_DD_DATE_PLACEHOLDER",
+            "message": "dd/mm/yy",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_DD_NO_LABEL",
+            "message": "DD No",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_DD_NO_PLACEHOLDER",
+            "message": "Enter DD no.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_DEBT_CARD",
+            "message": "Credit/Debit Card",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_IFSC_CODE_LABEL",
+            "message": "IFSC",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_IFSC_CODE_PLACEHOLDER",
+            "message": "Enter bank IFSC",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_PAID_BY_LABEL",
+            "message": "Paid By",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_PAID_BY_PLACEHOLDER",
+            "message": "Paid by",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_PAYER_MOBILENO_LABEL",
+            "message": "Payer Mobile No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_PAYER_MOBILENO_PLACEHOLDER",
+            "message": "Enter Payer Mobile No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_PAYER_NAME_LABEL",
+            "message": "Payer Name",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_PAYER_NAME_PLACEHOLDER",
+            "message": "Enter Payer Name",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_RE_ENTER_TRANS_NO_LABEL",
+            "message": "Re-Enter Transaction No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_TRANS_NO_LABEL",
+            "message": "Transaction No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PAYMENT_TRANS_NO_PLACEHOLDER",
+            "message": "Enter transaction No.",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PENALTY_INFO",
+            "message": "Penalty",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PENALTY_LABEL",
+            "message": "Penalty",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PROGRESS_OBJ",
+            "message": "Inprogress",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PROPERTY_ID_LABEL",
+            "message": "Property ID",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PROPERTY_ID_PLACEHOLDER",
+            "message": "Enter Property ID",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_PT_CONSUMER_CODE_LABEL",
+            "message": "Consumer code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_REBATE_INFO",
+            "message": "Rebate",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_REBATE_LABEL",
+            "message": "Rebate",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RESET_BUTTON",
+            "message": "RESET",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RETRY",
+            "message": "Retry",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RETRY_OBJ",
+            "message": "Retry",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Commercial_Use_of_Municipal_Land_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Community_Centre_Booking_Fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Jamin_Theka_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Land_Rent_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Municipal_Shops_Rent_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Parking_Fee_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Sale_of_Land_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Service_Tax_GST.of_Rent_of_MC_Properties_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Street_Vendor_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Street_vendor_ICARD/Certificate_Fees_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Tower_Annual_Rent_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Tower_Installation_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_RT.Tower_Rent_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SEARCH_BILLGINEIURL_NOTFOUND",
+            "message": "Selected Service Category?is Not Available for Search",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SEARCH_BILL_COMMON_HEADER",
+            "message": "Search Bill",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SEARCH_BILL_COMMON_SUB_HEADER",
+            "message": "Provide at least one parameter to search for an application",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SEARCH_BUTTON",
+            "message": "SEARCH",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SEARCH_RESULTS_HEADER",
+            "message": "Search Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SEARCH_SELECT_AT_LEAST_ONE_TOAST_MESSAGE",
+            "message": "Please fill at least one field to start search",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SELECT_G8_RECEIPT_ISSUE_DATE_PLACEHOLDER",
+            "message": "Enter G8 receipt Issue Date",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SERVICE_CATEGORY_LABEL",
+            "message": "Service Category",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SERVICE_CATEGORY_PLACEHOLDER",
+            "message": "Select Service Category",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SERVICE_TYPE_LABEL",
+            "message": "Service Type",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SERVICE_TYPE_PLACEHOLDER",
+            "message": "Select Service Type",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_SEWERAGE_BILLS",
+            "message": "Sewerage Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ST.Expenditure_santitation_Not_Income_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ST.Stationary_Not_Income_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_TX.Electricity_Chungi_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_TX.House_Tax_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_TX.No_Dues_Certificate_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_TX.Property_Tax_Dishonoured_Cheque_Payment_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_TX.Property_tax_13_14_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_TX.TS1_copy_register_for_old_survey_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_TX.Transfer_Property_Fees_CONSUMER_CODE_LABEL",
+            "message": "Consumer Code",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ULB_LABEL",
+            "message": "ULB",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_ULB_PLACEHOLDER",
+            "message": "Select ULB",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_UNIVERSAL_BILL_COMMON_HEADER",
+            "message": "Bill Genie",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_UPPER_CANCEL_BILL",
+            "message": "CANCEL BILL",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_VIEW_DOWNLOADS_HEADER",
+            "message": "View Downloads",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_VIEW_DOWNLOAD_HEADER",
+            "message": "VIEW DOWNLOADS",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_WATER_BILLS",
+            "message": "Water Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ABG_WATER_SEWERAGE_BILLS",
+            "message": "Water and Sewerage Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_BILLGENIE",
+            "message": "BillGenie",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_CANCEL_BILL",
+            "message": "Cancel Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_DOWNLOADBILLS",
+            "message": "Download bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_DOWNLOAD_BILL_PDF",
+            "message": "Download Bill PDF",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_GROUP_BILLS",
+            "message": "Group Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "AGB_BILL_CANCEL_FAILED",
+            "message": "Bill Cancellation Failed",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BC_MORE_DETAILS_LABEL",
+            "message": "Details",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BC_REASON_INCORRECT_CONNECTION_DETAILS",
+            "message": "Incorrect connection details",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BC_REASON_INCORRECT_PERSONAL_INFO",
+            "message": "Incorrect personal information",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BC_REASON_INCORRECT_PROPERTY_DETAILS",
+            "message": "Incorrect property details",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BC_REASON_OTHER",
+            "message": "Others",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BC_RECEIPT_CANCELLATION_REASON_LABEL",
+            "message": "Reason for Bill Cancellation",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BC_SELECT_MORE_DETAILS_LABEL",
+            "message": "Enter Details for Bill Cancellation",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BC_SELECT_RECEIPT_CANCELLATION_REASON_LABEL",
+            "message": "Select Bill Cancell Reason",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_CANOPY_FEE",
+            "message": "Canopy Fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_GAS_BALLOON_ADVERTISEMENT",
+            "message": "Gas Balloon Advertisement",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_LIGHT_WALA_BOARD",
+            "message": "Light wala Board",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_OUTDOOR_MEDIA_DISPLAY_FEE",
+            "message": "Outdoor Media Display Fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_WALL_PAINT_ADVERTISEMENT",
+            "message": "Wall Paint Advertisement",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_BURNING_OF_WASTE_CHALLAN_FEE",
+            "message": "Burning of Waste Challan fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_FEE",
+            "message": "Collection and Demolition Waste Challan fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_PROVIDENT_FUND_PROCESSING_FEES",
+            "message": "Provident Fund Processing Fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_SECURITY_DEPOSIT_FEE_REFUNDABLE_FEE",
+            "message": "Security Deposit Fee (Refundable Fee)",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_TENDER_EARNEST_MONEY_DEPOSIT_REFUNDABLE_FEE",
+            "message": "Tender Earnest Money Deposit (Refundable fee)",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_COMPOSITION_FEES",
+            "message": "Composition fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_BUILDING_SAFETY_CERTIFICATE_FEE",
+            "message": "Building safety Certificate fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_ECONOMIC_WEAKER_SECTION_PROJECTS_FEES",
+            "message": "Economic Weaker Section Projects Fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_ECONOMIC_WEAKER_SECTION_SCHEME_CHARGES",
+            "message": "Economic Weaker Section Scheme Charges",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_INFORMATION_CERTIFICATE_FEE",
+            "message": "Information Certificate fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_SUB_DIVISION_CHARGES_FEE",
+            "message": "Sub division charges fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS__MALBA_FEES",
+            "message": "Malba fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_CANDY_FEE_SLAUGHTER_HOUSE",
+            "message": "Candy fee (Slaughter House)",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_CONSERVANCY_FEE",
+            "message": "Conservancy fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_DISPENSARY_FEE",
+            "message": "Dispensary Fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_DOG_REGISTRATION",
+            "message": "Dog Registration",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_LICENSE_FEE_SLAUGHTER_HOUSE",
+            "message": "License fee (Slaughter House)",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SALE_OF_COMPOST_FEES",
+            "message": "Sale of Compost Fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SALE_OF_RECYCLABLE_FEES",
+            "message": "Sale of Recyclable Fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_STREET_LIGHT_POLE_TRANSFER_FEE",
+            "message": "Street Light Pole Transfer fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES",
+            "message": "Swimming Pool And Gymnactics Hall Fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_JAMIN_THEKA",
+            "message": "Jamin Theka",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_LAND_RENT",
+            "message": "Land Rent",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_MUNICIPAL_SHOPS_RENT",
+            "message": "Municipal Shops Rent",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_PARKING_FEE",
+            "message": "Parking Fee",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_SALE_OF_LAND",
+            "message": "Sale of Land",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES",
+            "message": "Service Tax/GST of Rent of MC Properties",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_STREET_VENDOR_ICARD_CERTIFICATE_FEES",
+            "message": "Street vendor ICARD/Certificate Fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_TOWER_RENT",
+            "message": "Tower Rent ",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_ELECTRICITY_CHUNGI",
+            "message": "Electricity Chungi",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT",
+            "message": "Property Tax Dishonoured Cheque Payment",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_TRANSFER_PROPERTY_FEES",
+            "message": "Transfer Property Fees",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_TS1_COPY_REGISTER_FOR_OLD_SURVEY",
+            "message": "TS1 Copy Register for Old Survey",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILLS_MERGE_AND_DOWNLOAD",
+            "message": "MERGE & DOWNLOAD",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_ACTIVE_LABEL",
+            "message": "Pending",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_CANCELLED_LABEL",
+            "message": "Cancelled",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_DOWNLOAD_RECEIPT",
+            "message": "DOWNLOAD RECEIPT",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_EXPIRED",
+            "message": "Expired",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_GENERATE_NEW_BILL",
+            "message": "GENERATE NEW BILL",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_GROUP_SEARCH_HEADER",
+            "message": "Search Results for Group Bills",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_PAID_LABEL",
+            "message": "Paid",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_PARTIALLY_PAID",
+            "message": "Partially Paid",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_PAY",
+            "message": "PAY",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BILL_GENIE_SEARCH_TABLE_HEADER",
+            "message": "Search Results for Bill",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CMN_NA",
+            "message": "NA",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_OWNER",
+            "message": "Owner",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_CANT_PAY_BELOW_MIN_AMOUNT",
+            "message": "The minimum amount allowed is ",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ERR_BANK_DETAILS_NOT_FOUND_FOR_IFSC",
+            "message": "Bank details not found for this IFSC",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_APPLICATION_DETAILS_UNIT",
+            "message": "Floor Details",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPIRED",
+            "message": "Expired",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_BILL_ACT_CANCEL",
+            "message": "Cancel",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_BILL_ACT_DOWNLOAD",
+            "message": "Download",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_BILL_ACT_RETRY",
+            "message": "Retry",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_BILL_CANCELLED",
+            "message": "Cancelled",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_BILL_EXPIRED",
+            "message": "Expired",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_BILL_FAILED",
+            "message": "Failed",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_BILL_INITIATED",
+            "message": "Initiated",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_BILL_LIST_OF_JOBS",
+            "message": "List of Downloads",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_JOB_CANCELLED_STATUS",
+            "message": "Cancelled",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GRP_JOB_INITIATED_STATUS",
+            "message": "your download will be ready in some time. check Downloads. Job id",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NOC_PAYMENT_RCPT_NO_LABEL",
+            "message": "G8 Reciept No",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NOC_PAYMENT_RCPT_NO_PLACEHOLDER",
+            "message": "Enter G8 Reciept details",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NOC_PAYMENT_RECEIPT_ISSUE_DATE_LABEL",
+            "message": "Date",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_CHALLAN / Bill",
+            "message": "Challan Reciept / Bill",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_CHALLAN BEL_CONSOLIDA TED_RECEIPT_CHALLAN_NO",
+            "message": "Challan Receipt",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_CONSUMER_NUMBER_LABEL",
+            "message": "Consumer Number",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PT-Tt",
+            "message": "testss",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PT-tt",
+            "message": "tests-demo",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PT_TOTALDUES_PAY",
+            "message": "Pay",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PT_TOTALDUES_TOOLTIP",
+            "message": "Amount displayed here might be different than the actual pending amount",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PT_TOTALDUES_VIEW",
+            "message": "View",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PT_test",
+            "message": "test",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PT_texst",
+            "message": "testings",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "Pt-TT",
+            "message": "ttest",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WS_INFO_VALIDATION",
+            "message": "Provide at least one parameter to search for an application",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WS_PIPE_SIZE_IN_INCHES_LABEL",
+            "message": "Pipe Size (in inches)",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WS_SERVICE_NAME_LABEL",
+            "message": "Service Name",
+            "module": "rainmaker-abg",
+            "locale": "en_IN"
+        }
+    ]
+}
